@@ -24,7 +24,7 @@ Create a **ghost monitor** (a virtual headless output) in [Hyprland](https://git
 - [Hyprland](https://github.com/hyprwm/Hyprland) (version 0.48.0 or later)
 - [WayVNC](https://github.com/any1/wayvnc) (version 0.9.1 or later)
 - A POSIX-compatible shell like `bash` or `zsh`  
-  > 📝 This script is written in `zsh`, but it works in `bash` too — just update the shebang (`#!/usr/bin/env bash`) if needed.
+  > 📝 This script is written in `zsh`, but it works in `bash` too — just update the (`#!/usr/bin/env bash`) if needed.
 
 ### 📦 WayVNC Dependencies
 
