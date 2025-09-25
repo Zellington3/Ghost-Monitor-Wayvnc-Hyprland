@@ -129,7 +129,7 @@ No manual cleanup required!
 
 ---
 
-## 🖱️ Add as a Launchable Desktop App (with Icon)
+## 🖱️ Add as a Launchable Desktop App for Arch (with Icon)
 
 You can make this script behave like a regular application with a desktop icon and launcher menu entry:
 
