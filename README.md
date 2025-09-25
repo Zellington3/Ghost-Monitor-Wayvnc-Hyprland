@@ -11,11 +11,11 @@ Create a **ghost monitor** (a virtual headless output) in [Hyprland](https://git
 
 ## ✨ Features
 
-- 🖥️ Dynamically creates a **virtual headless monitor**
-- 🔀 Assigns a workspace to the ghost monitor
-- 🧼 Automatically **cleans up** on exit (moves workspace back and stops WayVNC)
-- 🧠 Keeps your **real monitor focused**
-- 🌐 Works with **any VNC viewer** like TigerVNC or RealVNC
+- Dynamically creates a **virtual headless monitor**
+- Assigns a workspace to the ghost monitor
+- Automatically **cleans up** on exit (moves workspace back and stops WayVNC)
+- Keeps your **real monitor focused**
+- Works with **any VNC viewer** like TigerVNC or RealVNC
 
 ---
 
@@ -96,9 +96,9 @@ It relies on `hyprctl`, which is exclusive to Hyprland, and WayVNC, which only r
    >
    > We **intentionally omitted automatic config file editing** from the script to prevent potential issues with your Hyprland setup. It's safer to manually add the entry and back up your configuration beforehand.
 
-   ✅ If you're using dynamic monitor creation in regular Hyprland and don’t have a static layout, this step may not be necessary.
+   If you're using dynamic monitor creation in regular Hyprland and don’t have a static layout, this step may not be necessary.
 
-   🔧 For GUI-based monitor management, consider using [ngx-displays](https://github.com/Aylur/ngx-displays).
+   For GUI-based monitor management, consider using [ngx-displays](https://github.com/Aylur/ngx-displays).
 
 ---
 
