@@ -186,7 +186,7 @@ update-desktop-database ~/.local/share/applications/
 
 ### 5. Launch It Like Any App!
 
-Now you can find **WayVNC Ghost Monitor** in your app launcher or application menu just like any other program — with your custom ghost icon 😄
+Now you can find **WayVNC Ghost Monitor** in your app launcher or application menu just like any other program
 
 ---
 
